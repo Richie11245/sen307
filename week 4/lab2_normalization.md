@@ -1,5 +1,4 @@
-<!-- AJIBADE RICHARD JACOB 
-VUG/SEN/24/12291 -->
+<!-- AJIBADE RICHARD 12291 -->
 # Lab 2: Database Design and Normalization
 
 ## Part 1: Entities and Attributes
